@@ -1,0 +1,5 @@
+.nav__black {
+  background-color: white;
+  transition: all 500ms;
+  /* border-bottom: 1px solid lightgray; */
+}

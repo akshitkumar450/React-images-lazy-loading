@@ -1,0 +1,45 @@
+.pricingPlan__type {
+  display: flex;
+  justify-content: center;
+}
+.pricingPlan__type > h5 {
+  border: 1px solid #0762bb;
+  padding: 10px 20px;
+}
+.pricingPlan__monthly {
+  color: white;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.pricingPlan__annual {
+  cursor: pointer;
+  color: #0762bb;
+  font-weight: 400;
+}
+
+.pricingPlan__btn {
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  width: 100%;
+  color: white;
+  font-size: 1.2rem;
+  position: relative;
+}
+
+.pricingPlan__btn:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.pricingPlan__prices h5 {
+  color: #186fc5;
+  font-size: 30px;
+  font-weight: bold;
+}
+.pricingPlan__prices p {
+  color: #333a5f;
+  font-weight: bold;
+  font-size: 25px;
+}

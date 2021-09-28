@@ -1,0 +1,30 @@
+.home__instructorShow {
+  background-color: "#df7324";
+  color: #1d4ed8;
+  padding: 4px 10px;
+  background-color: "#df7324";
+}
+.home__instructorHide {
+  color: #1d4ed8;
+  cursor: pointer;
+  border: 1px solid #df7324;
+  background-color: "#df7324";
+  padding: 4px 10px;
+}
+
+.home__student {
+  background: #2a3158;
+}
+
+.home__adminShow {
+  background-color: #1d4ed8;
+  border: 1px solid #1d4ed8;
+  color: white;
+  padding: 4px 10px;
+}
+
+.home__adminHide {
+  background-color: transparent;
+  border: 1px solid #1d4ed8;
+  padding: 4px 10px;
+}
